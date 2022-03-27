@@ -37,9 +37,3 @@ body
 {
     display: flex;
 }
-#piano-button-2, #piano-button-4, #piano-button-6, #piano-button-8
-{
-    background-color: rgb(14, 14, 14);
-    height: 170px;
-    margin-bottom: 30px;
-}
