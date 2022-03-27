@@ -1,0 +1,16 @@
+body
+{
+    background-color: rgb(58, 74, 165);
+    margin: 0;
+    padding: 0;
+}
+
+#piano-body
+{
+    background-color: azure;
+    height: 300px;
+    width: 60%;
+    position: absolute;
+    top: calc(50% - 150px);
+    right: 20%;
+}
